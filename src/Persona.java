@@ -24,4 +24,5 @@ public class Persona {
 	}
 
 	//Descripcion: Interfaz Persona.
+	//Autor: Facundo De Nardo
 }
