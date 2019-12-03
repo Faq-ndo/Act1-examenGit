@@ -22,4 +22,9 @@ public class Persona {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+
+	//Descripcion: Interfaz Persona.
+	//Autor: Facundo De Nardo
+
+	//Este comentarioa se añade en el punto C.
 }
